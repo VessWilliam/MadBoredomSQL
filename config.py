@@ -6,7 +6,6 @@ DB_URL = (
 )
 
 
-
 ACCOUNT_ID_TO_KEEP =  8
 
 
